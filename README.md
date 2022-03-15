@@ -1,6 +1,6 @@
 ## Adafruit VL53L4CD Time of Flight Distance Sensor PCB
 
-<a href="http://www.adafruit.com/products/5396"><img src="assets/5396.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/5396"><img src="assets/5396-01.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit VL53L4CD Time of Flight Distance Sensor. 
